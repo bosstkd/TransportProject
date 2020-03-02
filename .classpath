@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/java__1/Libreries/com.ibm.icu_3.4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/SKD/aom/lib/classes12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/SKD/aom/lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/SKD/aom/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/SKD/aom/lib/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/SKD/aom/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/SKD/aom/lib/swingx-0.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/commons.collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/groovy-all-2.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/itext-2.1.7.js5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Desktop/jasper report/lib/jasperreports-6.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/Compressed/itext-5.3.0/itextpdf-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/Compressed/itext-5.3.0/itext-xtra-5.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/org.apache.commons.io.jar/org-apache-commons-codec.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
